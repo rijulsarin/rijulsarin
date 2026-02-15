@@ -12,9 +12,11 @@ I approach product building through the lens of a seasoned PM who values long-te
 * **The "Agency" Spectrum:** Strategizing where to deploy autonomous agents vs. human-in-the-loop workflows to balance speed with high-stakes reliability.
 * **Economic Moats in AI:** Designing products where the value lies in proprietary context, superior orchestration, and user-retention loops, not just the underlying LLM.
 
+**🎯 2026 Goal:** *To pioneer the transition from **Traditional Product Management** to **Agentic Orchestration**. My mission is to build a repository of 'First-Principles' frameworks and autonomous agents that prove AI isn't just a feature, but a teammate capable of high-stakes reasoning and execution.*
+
 ---
 
-## 🛠️ The Product Portfolio
+## 🛠️ The AI Product Lab (My Proof of Work)
 
 | Category | High-Level PM Skill Showcased | Status |
 | :--- | :--- | :--- |
@@ -29,12 +31,12 @@ I approach product building through the lens of a seasoned PM who values long-te
 
 ### 🎯 Product Leadership
 * **Strategic Roadmapping:** Defining 3-year visions for AI-native product suites.
-* **Cross-Functional Orchestration:** Leading engineering, UX, and Data Science teams through the "AI Uncertainty" lifecycle.
-* **GTM & Internationalization:** Scaling products across diverse markets (US, Europe, India).
+* **Cross-Functional Orchestration:** Leading engineering, UX, Legal and Data Science teams through the "AI Uncertainty" lifecycle.
+* **GTM & Internationalization:** Scaling products across diverse markets (NA, EU, APAC).
 * **AI Governance:** Defining guardrails for data privacy, model bias, and agentic bounded autonomy.
 
 ### 🤖 AI & Agentic Tech Stack
-* **Frontier Tools:** Model Context Protocol (MCP), Claude Code, OpenClaw, OpenHands.
+* **Frontier Tools:** Model Context Protocol (MCP), Claude Code, OpenClaw.
 * **Orchestration:** LangChain, Agentic RAG, Multi-Agent Systems (AutoGPT style).
 * **Infrastructure:** Python, SQL, Gemini/OpenAI SDKs, Streamlit (for rapid prototyping).
 
@@ -42,8 +44,8 @@ I approach product building through the lens of a seasoned PM who values long-te
 
 ## 📈 Background & Impact
 * **Amazon (Senior PM):** Leading scalable language and customer experience initiatives.
-* **Cisco (Ex-Product Lead):** Transitioned from Engineer to Product Lead, scaling enterprise-grade networking and software solutions.
-* **Education:** MBA, **UW Foster School of Business** | Alumnus of **BITS Pilani**.
+* **Cisco (Ex-Product Lead):** Transitioned from Engineer to Product Lead, scaling enterprise-grade security and SaaS solutions.
+* **Education:** MBA, **UW Foster School of Business** | Alumnus of **BITS Pilani**, **VIT University**.
 
 ---
 
