@@ -48,7 +48,7 @@ I approach product building through the lens of a seasoned PM who values long-te
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/rijulsarin)
+[LinkedIn](https://www.linkedin.com/in/rijulsarin)
 
 ---
 
