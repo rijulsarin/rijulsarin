@@ -16,7 +16,7 @@ I approach product building through the lens of a seasoned PM who values long-te
 
 ## 🛠️ The Product Portfolio
 
-| Category | High-Level PM Skill Showcased | Status |
+| Category | High-Level PM Skill Showcased |
 | :--- | :--- | :--- |
 | **[Agent-Capabilities](./Agent-Capabilities)** | **System Design & Automation:** Building autonomous agents for market analysis and PRD validation. |
 | **[Frameworks-As-Code](./Frameworks)** | **Product Strategy:** Turning GTM and North Star frameworks into executable Python tools. |
