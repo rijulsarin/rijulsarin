@@ -1,58 +1,65 @@
-# Rijul Sarin 👋
-### Senior Product Manager | AI Systems Architect | First-Principles Builder
+# Rijul Sarin
 
-I am a Senior Product Manager with 10+ years of experience leading high-scale product initiatives at **Amazon** and **Cisco**. I specialize in bridging the gap between complex technical infrastructure and customer-centric value, with a current focus on **Agentic Workflows** and **Model Context Protocol (MCP)**.
+**Senior Product Manager · AI/ML Systems · Seattle, WA**
 
----
-
-## 🧠 Strategic Mental Models
-I approach product building through the lens of a seasoned PM who values long-term viability over short-term hype:
-
-* **First-Principles Decomposition:** Breaking down nebulous "AI goals" into atomic, measurable system requirements.
-* **The "Agency" Spectrum:** Strategizing where to deploy autonomous agents vs. human-in-the-loop workflows to balance speed with high-stakes reliability.
-* **Economic Moats in AI:** Designing products where the value lies in proprietary context, superior orchestration, and user-retention loops, not just the underlying LLM.
-
-**🎯 2026 Goal:** *To pioneer the transition from **Traditional Product Management** to **Agentic Orchestration**. My mission is to build a repository of 'First-Principles' frameworks and autonomous agents that prove AI isn't just a feature, but a teammate capable of high-stakes reasoning and execution.*
+[LinkedIn](https://linkedin.com/in/rijulsarin) · [rijul.sarin@gmail.com](mailto:rijul.sarin@gmail.com)
 
 ---
 
-## 🛠️ The AI Product Lab (My Proof of Work)
+I build AI products that have to work at scale — not in demos. At Amazon, I own the ML pipeline that determines language compliance for millions of products tied to billion dollars in annual revenue. Before that, I was a software engineer and product lead at Cisco for seven years. That background shapes how I think: I care about what actually happens at inference time, not just what the model was supposed to do.
 
-| Category | High-Level PM Skill Showcased | Status |
-| :--- | :--- | :--- |
-| **[Agent-Capabilities](./Agent-Capabilities)** | **System Design & Automation:** Building autonomous agents for market analysis and PRD validation. |
-| **[Frameworks-As-Code](./Frameworks)** | **Product Strategy:** Turning GTM and North Star frameworks into executable Python tools. |
-| **[System Agency](./CLI-Tools)** | **Technical Leadership:** Utilizing **Claude Code** and **OpenClaw** for local system orchestration. |
-| **[Personal-Projects](./Personal-Projects)** | **Discovery & Iteration:** Long-term product bets like **HabitLock AI** (Behavioral Science + AI). |
+My current focus is on the systems side of AI product — pipeline observability, Human-in-the-Loop design, and the tricky middle ground between autonomous agents and accountable decision-making.
 
 ---
 
-## 🧰 Core Competencies
+## What I'm building here
 
-### 🎯 Product Leadership
-* **Strategic Roadmapping:** Defining 3-year visions for AI-native product suites.
-* **Cross-Functional Orchestration:** Leading engineering, UX, Legal and Data Science teams through the "AI Uncertainty" lifecycle.
-* **GTM & Internationalization:** Scaling products across diverse markets (NA, EU, APAC).
-* **AI Governance:** Defining guardrails for data privacy, model bias, and agentic bounded autonomy.
+This is a working lab, not a portfolio showcase. Each project connects to a real problem I've faced as a PM and couldn't find a good off-the-shelf tool for.
 
-### 🤖 AI & Agentic Tech Stack
-* **Frontier Tools:** Model Context Protocol (MCP), Claude Code, OpenClaw.
-* **Orchestration:** LangChain, Agentic RAG, Multi-Agent Systems (AutoGPT style).
-* **Infrastructure:** Python, SQL, Gemini/OpenAI SDKs, Streamlit (for rapid prototyping).
-
----
-
-## 📈 Background & Impact
-* **Amazon (Senior PM):** Leading scalable language and customer experience initiatives.
-* **Cisco (Ex-Product Lead):** Transitioned from Engineer to Product Lead, scaling enterprise-grade security and SaaS solutions.
-* **Education:** MBA, **UW Foster School of Business** | Alumnus of **BITS Pilani**, **VIT University**.
+| Repo | What it solves | PM skill it demonstrates |
+|------|---------------|--------------------------|
+| [`ml-pipeline-pm-toolkit`](#) | Design multi-stage ML systems with accuracy trade-off modeling and HITL sampling calculators | ML system design, observability frameworks |
+| [`ai-eval-kit`](#) | Lightweight LLM evaluation for PMs — sensitivity testing, hallucination detection against source documents | Product quality, risk mitigation |
+| [`pm-strategy-engine`](#) | Executable frameworks — North Star metric modeling, GTM scenario simulation | Product strategy, framework codification |
+| [`mcp-product-intelligence`](#) | MCP server that lets PMs query product analytics (Amplitude/Mixpanel) in natural language | Technical leadership, PM-Eng gap bridging |
+| [`habitlock-ai`](#) | Behavioral science + AI app for habit formation (long-term personal product bet) | Zero-to-one product development |
 
 ---
 
-## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/rijulsarin)
+## Why these projects, not generic "AI PM tools"
+
+The `ml-pipeline-pm-toolkit` exists because when I was designing a 4-stage ML observability framework at Amazon, there was nothing that helped a non-engineer PM reason about where accuracy was being lost across a pipeline. I built internal tooling; this is the generalized version.
+
+The HITL sampling calculator inside it came from a real problem: how do you reduce manual review overhead on a million seller offers without losing statistical confidence? We went from full-population review to a 5% sample at 95% CI — that's a 95% reduction in overhead. The math isn't complicated, but no one had built a PM-facing tool for it.
+
+The `ai-eval-kit` came from watching PMs at every company treat LLM quality as a binary pass/fail. Prompt sensitivity matters. Hallucination rates against known ground truth matter. This library gives a PM the instrumentation to find out before a feature ships.
 
 ---
 
-> "The best way to predict the future is to build it—one agent at a time."
-> "The role of the PM in 2026 isn't just to write requirements—it's to architect the intelligence that executes them."
+## Background
+
+**Amazon** (2024–present) — Senior PM, North America Language Experience. Running the ML compliance platform for Canada's bilingual packaging law. Pipeline covers millions of products, de-risks billions in annual revenue, and uses a multi-stage text classification system designed from scratch.
+
+**Spectio** (2023) — PM at an AI-powered BI startup. Led customer discovery (interviews with CIOs/CTOs), built the GenAI product roadmap, and ran a build-vs-buy analysis across the BI AI tool landscape.
+
+**Cisco** (2015–2022) — Started as a software engineer, ended as product lead for the Security Business Group. Shipped a cloud-native email security product that generated $22M over three years. Ran a 20-person UI/UX engineering team.
+
+**Education** — MBA, UW Foster School of Business (Dean's Scholar) · MTech in Software Systems with Data Analytics specialization, BITS Pilani (top 1%) · BTech in Electronics & Communication, VIT
+
+---
+
+## Technical foundation
+
+```
+AI/ML:     LLMs, NLP & text classification, multi-stage ML pipelines, OCR,
+           HITL system design, LLM evaluation, agentic workflows, MCP
+
+PM craft:  Zero-to-one development, roadmap prioritization, A/B testing,
+           North Star metrics, BRD/PRD authoring, GTM strategy, regulatory strategy
+
+Engineering: Python, SQL, R, JavaScript (React/Angular), AWS, Tableau, GitHub
+```
+
+---
+
+*I write occasionally about AI product design and ML system trade-offs. If something in these repos is useful or broken, open an issue — I'd genuinely like to know.*
