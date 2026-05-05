@@ -7,6 +7,8 @@
 
 I'm a Senior PM with 10+ years across e-commerce, enterprise security, and AI-native SaaS. I have a software engineering background — I spent seven years at Cisco as an engineer before moving into product — and it shapes how I think about ML systems, accuracy trade-offs, and the gap between what a model is supposed to do and what it actually does in production.
 
+At Amazon, I'm building AI-powered language compliance infrastructure at scale — systems that have to be accurate, auditable, and fast across millions of listings. That context shapes everything else I'm working on.
+
 My current focus is on the systems side of AI product: pipeline observability, Human-in-the-Loop design, agentic workflows, and the product decisions that sit between "technically possible" and "ships responsibly."
 
 This GitHub is a working lab. Everything here is something I built because I couldn't find a good existing tool for the problem — not to demonstrate PM skills in the abstract, but because the problem was real and worth solving.
